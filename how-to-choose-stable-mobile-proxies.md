@@ -4,7 +4,7 @@
 In compliant business scenarios such as data scraping and APP testing, mobile proxies have become an essential tool for many teams due to their unique resource characteristics. Selecting a reliable product from numerous providers and deploying it properly is key to ensuring business continuity.
 
 
-![1](https://i.postimg.cc/zXJKSL7C/yi-dong.png)
+![1](https://i.postimg.cc/Rh4r0rt2/yi-dong.png)
 
 
 ## Common Selection Pitfalls: Low Price Does Not Mean High Value
