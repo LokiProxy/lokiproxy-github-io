@@ -15,6 +15,8 @@
 - [US IP Only $1.99? How LokiProxy Secures Your Store](/us-ip-only-1-99.md)
 - [What Is a Mobile Proxy? A Complete Guide to Concepts and Use Cases](/what-is-a-mobile-proxy.md)
 - [What Makes a High-Quality Mobile Proxy? A Business Selection Reference Guide](/what-makes-a-high-quality-mobile-proxy.md)
+- [Why Do Static Residential IP Prices Vary So Much?](/why-do-static-residential-ip-prices-vary-so-much.md)
+- 
 
 
 
