@@ -1,3 +1,10 @@
+---
+title: "US IP Only $1.99? How LokiProxy Secures Your Store"
+description: "US store account security starts with the right IP. This guide explains risk control triggers, static IP benefits, and LokiProxy's exclusive $1.99 offer."
+permalink: /us-ip-only-1-99.html
+---
+
+
 # US IP Only $1.99? How LokiProxy Secures Your Store
 
 
