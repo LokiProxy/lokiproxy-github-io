@@ -4,6 +4,7 @@
 - [How Businesses Should Purchase Static Residential Proxies](/how-businesses-should-purchase-static-residential-proxies.md)
 - [How to Buy Mobile Proxy in 2026? Purchasing Guide](/how-to-buy-mobile-proxy.md)
 - [How to Choose IP Proxies? Rotating, Static, Mobile Guide](/how-to-choose-ip-proxies.md)
+- [How to Choose Mobile Proxies on a Budget?](/how-to-choose-mobile-proxies-on-a-budget.md)
 
 
 # 35M+ Clean IPs, Only $0.48/GB: Choose LokiProxy for Residential Proxies in 2026
