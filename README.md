@@ -1,3 +1,11 @@
+## 📚 Blog Articles
+
+- [High-Purity Residential Proxies: Advantages & Uses](/high-purity-residential-proxies.html)
+- 
+
+
+
+
 # 35M+ Clean IPs, Only $0.48/GB: Choose LokiProxy for Residential Proxies in 2026
 
 ## What is LokiProxy?
