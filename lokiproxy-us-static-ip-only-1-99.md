@@ -1,3 +1,10 @@
+---
+title: "LokiProxy First Purchase: US Static IP Only $1.99"
+description: "New to LokiProxy? Get a US native static IP for only $1.99/30 days. Flexible IP selection, free 24-hour exchange, and unlimited traffic included."
+permalink: /lokiproxy-us-static-ip-only-1-99.html
+---
+
+
 # LokiProxy First Purchase: US Static IP Only $1.99
 
 
