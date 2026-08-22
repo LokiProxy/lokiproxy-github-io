@@ -1,6 +1,3 @@
 title: LokiProxy Blog
 plugins:
   - jekyll-sitemap
-
-yaml
-permalink: /:categories/:year/:month/:day/:title:output_ext
