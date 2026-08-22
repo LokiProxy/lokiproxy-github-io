@@ -1,3 +1,10 @@
+---
+title: "ISP Basics: A Beginner's Guide to Internet Service Providers"
+description: "New to ISPs? This guide breaks down what Internet Service Providers are, their core characteristics, applications, and LokiProxy's ISP-based proxy solutions."
+permalink: /isp-basics-a-beginner-guide-to-internet-service-providers.html
+---
+
+
 # ISP Basics: A Beginner's Guide to Internet Service Providers
 
 
