@@ -13,6 +13,7 @@
 - [LokiProxy First Purchase: US Static IP Only $1.99](/lokiproxy-us-static-ip-only-1-99.md)
 - [Mobile vs Residential Proxy: Core Similarities & Differences](/mobile-vs-residential-proxy.md)
 - [US IP Only $1.99? How LokiProxy Secures Your Store](/us-ip-only-1-99.md)
+- [What Is a Mobile Proxy? A Complete Guide to Concepts and Use Cases](/what-is-a-mobile-proxy.md)
 
 
 # 35M+ Clean IPs, Only $0.48/GB: Choose LokiProxy for Residential Proxies in 2026
