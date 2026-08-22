@@ -1,6 +1,6 @@
 ## 📚 Blog Articles
 
-- [High-Purity Residential Proxies: Advantages & Uses](/high-purity-residential-proxies.html)
+- [High-Purity Residential Proxies: Advantages & Uses](/high-purity-residential-proxies.md)
 - 
 
 
