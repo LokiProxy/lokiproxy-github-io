@@ -1,3 +1,10 @@
+---
+title: "What Is a Mobile Proxy? A Complete Guide to Concepts and Use Cases"
+description: "What is a mobile proxy and how does it work? This guide covers fundamentals, use cases like data scraping and ad verification, and LokiProxy's key advantages."
+permalink: /what-is-a-mobile-proxy.html
+---
+
+
 # What Is a Mobile Proxy? A Complete Guide to Concepts and Use Cases
 
 
