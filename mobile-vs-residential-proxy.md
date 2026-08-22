@@ -1,3 +1,10 @@
+---
+title: "Mobile vs Residential Proxy: Core Similarities & Differences"
+description: "Residential vs mobile proxies: what's the same, what's different? This guide covers network sources, pricing models, and LokiProxy's balanced solutions."
+permalink: /mobile-vs-residential-proxy.html
+---
+
+
 # Mobile vs Residential Proxy: Core Similarities & Differences
 
 
