@@ -1,9 +1,8 @@
 ## 📚 Blog Articles
 
-- [High-Purity Residential Proxies: Advantages & Uses](/high-purity-residential-proxies.md)
-- 
-
-
+- [High-Purity Residential Proxies: Advantages & Uses](/high-purity-residential-proxies.html)
+- [Why Do Static Residential IP Prices Vary So Much?](/why-do-static-residential-ip-prices-vary-so-much.html)
+- [How to Plan Mobile Proxy Calling Strategies Effectively](/how-to-plan-mobile-proxy-calling-strategies-effectively.html)
 
 
 # 35M+ Clean IPs, Only $0.48/GB: Choose LokiProxy for Residential Proxies in 2026
