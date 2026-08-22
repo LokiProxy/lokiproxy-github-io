@@ -1,6 +1,6 @@
 ---
 title: LokiProxy High-Purity Residential Proxies: Advantages & Uses
-permalink: /high-purity-residential-proxies.html
+permalink: /high-purity-residential-proxies.md
 ---
 
 
