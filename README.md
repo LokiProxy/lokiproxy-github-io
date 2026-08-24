@@ -1,4 +1,4 @@
-## 📚 Blog Articles
+## Blog Articles
 
 - [High-Purity Residential Proxies: Advantages & Uses](/high-purity-residential-proxies.md)
 - [How Businesses Should Purchase Static Residential Proxies](/how-businesses-should-purchase-static-residential-proxies.md)
