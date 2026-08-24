@@ -1,3 +1,5 @@
 title: LokiProxy Blog
 plugins:
   - jekyll-sitemap
+
+exclude: [google5812f5984b1f1788.html]
