@@ -2,57 +2,37 @@ import os
 import requests
 
 
-def get_required_env(name: str) -> str:
-    value = os.getenv(name)
+def build_proxy_url():
+    username = os.getenv("LOKIPROXY_USERNAME", "USERNAME")
+    password = os.getenv("LOKIPROXY_PASSWORD", "PASSWORD")
+    host = os.getenv("LOKIPROXY_HOST", "HOST")
+    port = os.getenv("LOKIPROXY_PORT", "PORT")
 
-    if not value:
-        raise RuntimeError(
-            f"Missing required environment variable: {name}"
-        )
-
-    return value
+    return f"http://{username}:{password}@{host}:{port}"
 
 
-def build_proxy_url() -> str:
-    host = get_required_env("LOKIPROXY_HOST")
-    port = get_required_env("LOKIPROXY_PORT")
-    username = get_required_env("LOKIPROXY_USERNAME")
-    password = get_required_env("LOKIPROXY_PASSWORD")
-
-    return (
-        f"http://{username}:{password}"
-        f"@{host}:{port}"
-    )
-
-
-def main() -> None:
-    proxy_url = build_proxy_url()
+def fetch(url):
+    proxy = build_proxy_url()
 
     proxies = {
-        "http": proxy_url,
-        "https": proxy_url,
+        "http": proxy,
     }
 
-    target_url = "https://example.com/"
-
     response = requests.get(
-        target_url,
+        url,
         proxies=proxies,
         timeout=30,
-        headers={
-            "User-Agent": "LokiProxy-Example/1.0"
-        },
     )
 
     response.raise_for_status()
 
-    print("Request succeeded.")
-    print("Status code:", response.status_code)
-    print("Target URL:", target_url)
-
-    print("\nResponse preview:")
-    print(response.text[:500])
+    return response
 
 
 if __name__ == "__main__":
-    main()
+    target_url = "http://example.com/"
+
+    response = fetch(target_url)
+
+    print("Status:", response.status_code)
+    print("Final URL:", response.url)
