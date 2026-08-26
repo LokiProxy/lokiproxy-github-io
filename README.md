@@ -1,177 +1,218 @@
-## Blog Articles
+# LokiProxy - Proxy Service
 
-- [High-Purity Residential Proxies: Advantages & Uses](/high-purity-residential-proxies.md)
-- [How Businesses Should Purchase Static Residential Proxies](/how-businesses-should-purchase-static-residential-proxies.md)
-- [How to Buy Mobile Proxy in 2026? Purchasing Guide](/how-to-buy-mobile-proxy.md)
-- [How to Choose IP Proxies? Rotating, Static, Mobile Guide](/how-to-choose-ip-proxies.md)
-- [How to Choose Mobile Proxies on a Budget?](/how-to-choose-mobile-proxies-on-a-budget.md)
-- [How to Choose Stable Mobile Proxies?](/how-to-choose-stable-mobile-proxies.md)
-- [How to Plan Mobile Proxy Calling Strategies Effectively](/how-to-plan-mobile-proxy-calling-strategies-effectively.md)
-- [In-Depth Analysis of Mobile Proxy Working Principles: From 3G/4G/5G Cellular Networks to IP Rotation Mechanisms](/in-depth-analysis-of-mobile-proxy-working-principles.md)
-- [ISP Basics: A Beginner's Guide to Internet Service Providers](/isp-basics-a-beginner-guide-to-internet-service-providers.md)
-- [2026 Best Mobile Proxy: 3G/4G/5G Native Networks, Only $1.3/GB](/lokiproxy-the-best-mobile-proxy-of-2026.md)
-- [LokiProxy First Purchase: US Static IP Only $1.99](/lokiproxy-us-static-ip-only-1-99.md)
-- [Mobile vs Residential Proxy: Core Similarities & Differences](/mobile-vs-residential-proxy.md)
-- [US IP Only $1.99? How LokiProxy Secures Your Store](/us-ip-only-1-99.md)
-- [What Is a Mobile Proxy? A Complete Guide to Concepts and Use Cases](/what-is-a-mobile-proxy.md)
-- [What Makes a High-Quality Mobile Proxy? A Business Selection Reference Guide](/what-makes-a-high-quality-mobile-proxy.md)
-- [Why Do Static Residential IP Prices Vary So Much?](/why-do-static-residential-ip-prices-vary-so-much.md)
-- [Java Large-Scale Web Scraping: How to Improve Scraping Stability and Throughput](java-large-scale-web-scraping.md)
-  
+LokiProxy provides developer-friendly proxy infrastructure and integration examples for HTTP and SOCKS5 proxy connections.
 
+### Features
 
+- HTTP proxy support
+- SOCKS5 proxy support
+- Username/password authentication
+- IP whitelist authentication
+- Rotating proxy support
+- Sticky session support
+- Python integration examples
+- Go integration examples
+- Node.js integration examples
+- Developer-focused documentation
 
-# 35M+ Clean IPs, Only $0.48/GB: Choose LokiProxy for Residential Proxies in 2026
+### Quick Start
 
-## What is LokiProxy?
+#### Installation
 
-As a professional residential proxy service provider, LokiProxy is committed to delivering high-quality proxy solutions for global cross-border sellers, data collection teams, and various online businesses.
+For Python HTTP proxy support:
 
-Against the backdrop of an increasingly complex global network environment and stricter platform risk management in 2026, LokiProxy stands out among numerous proxy service providers with its highly competitive transparent pricing, high-quality and stable IP resources, and efficient, 24/7 responsive service. It has become a recognized cost-effective choice for global enterprises, cross-border teams, and technical developers.
+```bash
+pip install requests
+```
 
-The IP resources provided by the platform are all sourced from real home broadband networks distributed by compliant ISPs worldwide—no datacenter IPs, no abuse records, no repeated contamination. Covering 195+ countries and regions, it perfectly adapts to various compliant online business needs, providing users with stable, secure, and efficient network connectivity.
+For Python SOCKS5 support:
 
-![GitHub Logo](https://i.postimg.cc/gjxgYSSW/1.png)
+```bash
+pip install "requests[socks]"
+```
 
+For Go, the examples use the standard library.
 
-## Why Does LokiProxy Stand Out?
+For Node.js:
 
+```bash
+npm install axios
+```
 
-### 35M+ Real Residential IPs: 
-Covering 195+ countries and regions, all IPs originate from real home broadband networks.
+#### Basic Usage
 
-### 99.8% IP Purity: 
+A typical HTTP proxy URL uses the following format:
 
-Each IP is strictly screened to ensure no abuse records and no blacklist entries.
+```text
+http://USERNAME:PASSWORD@HOST:PORT
+```
 
-### 99.9% Connection Success Rate: 
+Example in Python:
 
-With an average response time below 0.5 seconds, ensuring business continuity.
+```python
+import requests
 
-### HTTP & SOCKS5 Protocol Support: 
+proxy = "http://USERNAME:PASSWORD@HOST:PORT"
 
-Flexibly adapting to web operations and multi-protocol data transmission scenarios.
+proxies = {
+    "http": proxy,
+}
 
-### City-level precise targeting: 
+response = requests.get(
+    "http://example.com/",
+    proxies=proxies,
+    timeout=30,
+)
 
-meeting the refined needs of local SEO monitoring, regional ad verification, and similar use cases.
+response.raise_for_status()
 
-### 24/7 Customer Support: 
+print(response.status_code)
+```
 
-Professional technical team online around the clock, promptly responding to access configuration, usage inquiries, and troubleshooting to ensure stable business operations.
+Example with SOCKS5:
 
-For complete product information, real-time pricing, documentation, or to request a free trial, please visit:
+```python
+import requests
 
-Official Website: [https://www.lokiproxy.com](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
+proxy = "socks5h://USERNAME:PASSWORD@HOST:PORT"
 
+proxies = {
+    "http": proxy,
+}
 
-## Product Plans & Pricing
+response = requests.get(
+    "http://example.com/",
+    proxies=proxies,
+    timeout=30,
+)
 
-To meet the needs of different business scenarios, LokiProxy offers flexible and diverse residential proxy packages, serving individual developers, SMEs, and large enterprises with varying traffic and scenario requirements. Notably, all services below support both username/password authentication and IP whitelisting, allowing users to choose based on their security policies.
+response.raise_for_status()
 
-Below are the current promotional details for each package (Prices may vary. Check the LokiProxy official website for the latest information):
+print(response.status_code)
+```
 
+### Proxy Configuration
 
-### 1. Rotating Residential Proxies
-![GitHub Logo](https://i.postimg.cc/pd6m8sVP/2.png)
-![GitHub Logo](https://i.postimg.cc/sDrvpQzm/3.png)
+Replace the following placeholders with your LokiProxy proxy configuration:
 
+- `USERNAME` — proxy username
+- `PASSWORD` — proxy password
+- `HOST` — proxy hostname or IP address
+- `PORT` — proxy port
 
-#### Core Advantages:
+Example HTTP proxy:
 
-· Country/state/city-level targeting
+```text
+http://USERNAME:PASSWORD@HOST:PORT
+```
 
-· Unlimited concurrent requests & sticky/rotating sessions
+Example SOCKS5 proxy:
 
-· Sticky sessions up to 180 minutes
+```text
+socks5h://USERNAME:PASSWORD@HOST:PORT
+```
 
-· Automatic rotation with each request
+Do not publish real proxy credentials in source code or documentation.
 
+### Using Environment Variables
 
-Whether for daily testing by individual developers or enterprise-level large-scale data collection, LokiProxy provides an elastic and efficient network infrastructure.
+For production applications, avoid hard-coding proxy credentials in source code.
 
-[Buy Now](https://www.lokiproxy.com/pricing/rotating-residenial-proxy)
+Set the following environment variables:
 
+```bash
+export LOKIPROXY_HOST="HOST"
+export LOKIPROXY_PORT="PORT"
+export LOKIPROXY_USERNAME="USERNAME"
+export LOKIPROXY_PASSWORD="PASSWORD"
+```
 
-### 2. Short-term Residential IPs
-![GitHub Logo](https://i.postimg.cc/1tQLWQ3D/4.png)
-![GitHub Logo](https://i.postimg.cc/7LgRJWn9/5.png)
+Then use them in Python:
 
+```python
+import os
+import requests
 
-#### Core Advantages:
+host = os.environ["LOKIPROXY_HOST"]
+port = os.environ["LOKIPROXY_PORT"]
+username = os.environ["LOKIPROXY_USERNAME"]
+password = os.environ["LOKIPROXY_PASSWORD"]
 
-· On-demand use of any number of IPs
+proxy = f"http://{username}:{password}@{host}:{port}"
 
-· Unused IP balance never expires
+proxies = {
+    "http": proxy,
+}
 
-· Session duration up to 24 hours
+response = requests.get(
+    "http://example.com/",
+    proxies=proxies,
+    timeout=30,
+)
 
-· Compatible with Windows, macOS, and Linux
+response.raise_for_status()
 
+print(response.status_code)
+```
 
-On-demand IP extraction with precise cost control—making management simpler and more reliable.
+### Documentation
 
-[Buy Now](https://www.lokiproxy.com/pricing/short-term-residential-ip)
+- [Proxy Types](docs/proxy-types.md)
+- [Authentication](docs/authentication.md)
+- [API Reference](docs/api.md)
 
+### Examples
 
-### 3. Unlimited Residential Proxies
-![GitHub Logo](https://i.postimg.cc/2SNFL8c7/6.png)
+- [Python HTTP Proxy](examples/python/)
+- [Go Integration](examples/go/)
+- [Node.js Integration](examples/nodejs/)
 
+### FAQ
 
-#### Core Advantages:
+#### Which proxy protocols are supported?
 
-· Billed by time period
+LokiProxy supports HTTP and SOCKS5 proxy connections.
 
-· Unlimited Traffic
+#### How do I configure an HTTP proxy?
 
-· Random country assignment
+Use the following format:
 
-· Customizable bandwidth and servers
+```text
+http://USERNAME:PASSWORD@HOST:PORT
+```
 
+#### How do I configure a SOCKS5 proxy?
 
-For high-traffic collection, round-the-clock monitoring, high-concurrency tasks, and similar scenarios, LokiProxy provides a worry-free, burden-free solution.
+Use the following format:
 
-[Buy Now](https://www.lokiproxy.com/pricing/unlimited-proxy)
+```text
+socks5h://USERNAME:PASSWORD@HOST:PORT
+```
 
+Python SOCKS5 support requires:
 
-### 4. Static Residential Proxies
-![GitHub Logo](https://i.postimg.cc/Kz3Dgk2N/7.png)
+```bash
+pip install "requests[socks]"
+```
 
+#### Should I commit proxy credentials to GitHub?
 
-#### Core Advantages:
+No. Never commit real proxy usernames, passwords, API keys, or other secrets to a public repository.
 
-· Long-term stable IP addresses, 100% exclusive
+Use environment variables or another secure secrets-management solution instead.
 
-· Premium ISP resources
+### Contributing
 
-· Unlimited traffic & stable bandwidth
+Contributions are welcome.
 
-· Up to 90-day lease renewal
+Before submitting a pull request:
 
+1. Keep examples runnable.
+2. Do not include real proxy credentials.
+3. Test code examples before submitting changes.
+4. Update documentation when configuration or behavior changes.
+5. Keep documentation focused on legitimate technical use cases.
 
-Obtain a long-term stable exclusive network identity at a lower cost, providing reliable support for account maintenance and continuous tracking scenarios.
+### License
 
-[Buy Now](https://www.lokiproxy.com/pricing/static-proxy)
-
-
-## Premium Package Benefits
-
-By purchasing a premium package for Rotating Residential Proxies or Short-Session Residential IPs, you not only enjoy high-quality residential proxy services at more competitive prices (e.g., $0.48/GB or $0.02/IP), but also unlock CDKey distribution and resale functionality.
-
-
-Permission management becomes clearer, resource allocation more flexible—eliminating concerns about resource waste and fully meeting team collaboration and business expansion needs.
-
-
-## Free Trial Service
-
-To help users fully evaluate product performance and suitability before making a purchase, LokiProxy offers a free trial service. You can apply for the appropriate type of residential proxy based on your business needs.
-
-
-The trial service has no hidden fees and a simple process, designed to reduce selection costs and ensure the product is highly compatible with your actual business scenarios. To apply, please contact our official customer support (Telegram: @lokiproxy) for trial details.
-
-
-## Conclusion
-
-In 2026, as residential proxy services become increasingly standardized, LokiProxy provides high-cost-performance and stable infrastructure for enterprise-level data collection, brand monitoring, and other scenarios with its 35M+ clean residential IPs, 99.8% IP purity, and transparent pricing starting at just $0.48/GB. If you are looking for a long-term trustworthy residential proxy provider, LokiProxy is undoubtedly a choice worth serious consideration.
-
-Click[LokiProxy](https://www.lokiproxy.com/?utm_t=1&utm_i=52)to visit the official website and start using your residential proxies today.
+See the repository license for licensing information.
