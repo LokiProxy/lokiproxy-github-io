@@ -1,5 +1,12 @@
-title: LokiProxy Blog
+title: LokiProxy Documentation
+
+description: Technical documentation for LokiProxy HTTP and SOCKS5 proxy connections.
+
 plugins:
   - jekyll-sitemap
 
-exclude: [google5812f5984b1f1788.html]
+exclude:
+  - google5812f5984b1f1788.html
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
