@@ -1,13 +1,14 @@
 {
-  "name": "lokiproxy-nodejs-example",
+  "name": "lokiproxy-nodejs-examples",
   "version": "1.0.0",
   "private": true,
-  "description": "LokiProxy HTTP proxy example for Node.js",
+  "description": "Node.js HTTP and SOCKS5 proxy examples for LokiProxy",
   "main": "proxy_demo.js",
   "scripts": {
     "start": "node proxy_demo.js"
   },
   "dependencies": {
-    "https-proxy-agent": "^7.0.6"
+    "axios": "^1.0.0",
+    "socks-proxy-agent": "^8.0.0"
   }
 }
