@@ -7,6 +7,3 @@ plugins:
 
 exclude:
   - google5812f5984b1f1788.html
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
