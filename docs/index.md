@@ -8,12 +8,36 @@ description: Technical documentation for LokiProxy HTTP and SOCKS5 proxy connect
 
 Technical documentation for LokiProxy proxy connections.
 
-## Supported Proxy Types
+## Documentation
+
+LokiProxy provides proxy connectivity solutions and technical resources for developers, businesses, and technical users.
+
+### Supported Proxy Types
 
 LokiProxy supports:
 
 - HTTP
 - SOCKS5
+
+### Authentication
+
+Learn how to authenticate and configure LokiProxy proxy connections.
+
+[Authentication Guide](authentication.md)
+
+### API Reference
+
+For developers integrating LokiProxy into applications and automated workflows:
+
+[API Reference](api.md)
+
+### Proxy Types
+
+Learn more about supported LokiProxy proxy protocols:
+
+[Proxy Types](proxy-types.md)
+
+---
 
 ## Quick Start
 
@@ -23,9 +47,3 @@ Use the following proxy format:
 
 ```text
 http://USERNAME:PASSWORD@HOST:PORT
-
-## Blog
-
-Explore LokiProxy's latest proxy guides, tutorials, technical articles, and industry insights.
-
-[Visit the LokiProxy Blog](/docs/blog/)
