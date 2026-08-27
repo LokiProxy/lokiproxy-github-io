@@ -1,0 +1,30 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://lokiproxy.github.io/</loc>
+  </url>
+
+  {% for page in site.pages %}
+    {% unless page.url contains '404' %}
+      {% unless page.url contains 'robots.txt' %}
+        {% unless page.url contains 'sitemap.xml' %}
+          <url>
+            <loc>https://lokiproxy.github.io{{ page.url }}</loc>
+          </url>
+        {% endunless %}
+      {% endunless %}
+    {% endunless %}
+  {% endfor %}
+
+  {% for post in site.posts %}
+    <url>
+      <loc>https://lokiproxy.github.io{{ post.url }}</loc>
+    </url>
+  {% endfor %}
+
+</urlset>
