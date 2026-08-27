@@ -12,6 +12,12 @@ This section contains technical articles, tutorials, configuration guides, and t
 
 ## Latest Articles
 
+### 35M+ Clean IPs, Only $0.48/GB: Choose LokiProxy for Residential Proxies in 2026
+
+Professional residential proxies for diverse use cases, a cost‑effective choice.
+
+[Read the full article](lokiProxy-premium-residential-proxies-at-only-0.48-GB.md)
+
 ### HTTP Proxy Guide
 
 Learn how to configure and use LokiProxy HTTP proxy connections.
