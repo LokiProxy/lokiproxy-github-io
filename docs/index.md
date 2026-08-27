@@ -22,7 +22,7 @@ Residential proxies use IP addresses associated with real residential networks a
 
 **Learn more:**
 
-[Residential Proxy Guide](blog/high-purity-residential-proxies.html)
+[Residential Proxy Guide](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
 
 ---
 
@@ -32,7 +32,7 @@ Mobile proxies provide access through mobile network IP addresses and can be use
 
 **Learn more:**
 
-[Mobile Proxy Guide](blog/how-to-buy-mobile-proxy.html)
+[Mobile Proxy Guide](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
 
 ---
 
@@ -42,13 +42,37 @@ Static residential proxies provide persistent IP addresses for applications that
 
 **Learn more:**
 
-[Static Residential Proxy Guide](blog/us-static-ip-only-1-99.html)
+[Static Residential Proxy Guide](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
 
 ---
 
-### Rotating Proxies
+### High-Purity Residential Proxies
 
-Rotating proxies automatically change IP addresses according to configured rotation rules and can be useful for large-scale web data collection and automation workflows.
+Strictly filtered premium residential IPs providing authentic and reliable network environments for data scraping, brand protection, and multi-scenario demands.
+
+**Learn more:**
+
+[High-Purity Residential Proxies](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
+
+---
+
+### Short-term Residential IPs
+
+35M+ real residential IPs across 190+ countries/regions, with on-demand access to any number of IPs.
+
+**Learn more:**
+
+[Short-term Residential IPs](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
+
+---
+
+### Unlimited Residential Proxies
+
+Covering 50+ countries/regions, unlock unrestricted access and exceptional speed on powerful proxy servers.
+
+**Learn more:**
+
+[Unlimited Residential Proxies](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
 
 ---
 
@@ -57,7 +81,6 @@ Rotating proxies automatically change IP addresses according to configured rotat
 LokiProxy supports:
 
 - HTTP proxies
-- HTTPS proxy connections
 - SOCKS5 proxies
 
 ---
