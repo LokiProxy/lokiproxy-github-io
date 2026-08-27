@@ -1,6 +1,8 @@
 title: LokiProxy Documentation
-
 description: Technical documentation for LokiProxy HTTP and SOCKS5 proxy connections.
+
+url: "https://lokiproxy.github.io"
+baseurl: ""
 
 plugins:
   - jekyll-sitemap
