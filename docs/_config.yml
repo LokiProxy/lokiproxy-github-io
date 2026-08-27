@@ -1,0 +1,36 @@
+title: LokiProxy Documentation
+
+description: >
+  LokiProxy provides professional proxy solutions including
+  residential proxies, mobile proxies, static residential proxies,
+  rotating proxies, HTTP proxies and SOCKS5 proxies.
+
+url: "https://lokiproxy.github.io"
+baseurl: ""
+
+lang: en
+
+timezone: UTC
+
+theme: minima
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: /blog/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
