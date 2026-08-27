@@ -23,3 +23,9 @@ Use the following proxy format:
 
 ```text
 http://USERNAME:PASSWORD@HOST:PORT
+
+## Blog
+
+Explore LokiProxy's latest proxy guides, tutorials, technical articles, and industry insights.
+
+[Visit the LokiProxy Blog](/docs/blog/)
