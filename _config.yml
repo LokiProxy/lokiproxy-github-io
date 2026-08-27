@@ -1,8 +1,11 @@
 title: LokiProxy
+
 description: Professional proxy solutions including residential, mobile, static residential and rotating proxies.
 
 url: "https://lokiproxy.github.io"
 baseurl: ""
+
+lang: en
 
 plugins:
   - jekyll-sitemap
@@ -11,3 +14,8 @@ permalink: /blog/:title/
 
 exclude:
   - google5812f5984b1f1788.html
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
