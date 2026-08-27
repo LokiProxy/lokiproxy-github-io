@@ -6,7 +6,7 @@ description: "Professional residential proxies for diverse use cases, a cost‑e
 
 # 35M+ Clean IPs, Only $0.48/GB: Choose LokiProxy for Residential Proxies in 2026
 
-## What is LokiProxy?
+## What is LokiProxy
 
 As a professional residential proxy service provider, LokiProxy is committed to delivering high-quality proxy solutions for global cross-border sellers, data collection teams, and various online businesses.
 
@@ -17,7 +17,7 @@ The IP resources provided by the platform are all sourced from real home broadba
 ![GitHub Logo](https://i.postimg.cc/gjxgYSSW/1.png)
 
 
-## Why Does LokiProxy Stand Out?
+## Why Does LokiProxy Stand Out
 
 
 ### 35M+ Real Residential IPs: 
