@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "LokiProxy - Proxy Solutions for Developers and Businesses"
-description: "LokiProxy provides reliable residential, mobile, ISP and static proxy solutions for web scraping, automation, data collection and business applications."
+title: LokiProxy - Professional Proxy Solutions
+description: Professional residential, mobile, static residential and rotating proxy solutions for developers, businesses and technical users.
 ---
 
 # LokiProxy
 
-## Reliable Proxy Solutions for Developers and Businesses
+## Professional Proxy Solutions for Developers and Businesses
 
-LokiProxy provides reliable proxy infrastructure for developers, businesses, automation workflows, web scraping, data collection and other internet-based applications.
+LokiProxy provides reliable proxy infrastructure for developers, businesses, automation workflows, web data collection and technical applications.
 
-Our proxy solutions support multiple connection types and use cases, including residential proxies, mobile proxies, ISP proxies and static IP proxies.
+Our proxy solutions include residential proxies, mobile proxies, static residential proxies, rotating proxies, HTTP proxies and SOCKS5 proxies.
 
 ---
 
@@ -18,82 +18,53 @@ Our proxy solutions support multiple connection types and use cases, including r
 
 ### Residential Proxies
 
-High-quality residential proxy solutions designed for web scraping, automation, market research and data collection.
+Residential proxies use IP addresses associated with real residential networks and are designed for applications that require geographically diverse and reliable IP connectivity.
 
-[Learn more about Residential Proxies](../high-purity-residential-proxies.html)
+**Learn more:**
+
+[Residential Proxy Guide](blog/high-purity-residential-proxies.html)
 
 ---
 
 ### Mobile Proxies
 
-Mobile proxy solutions for applications that require mobile IP addresses, flexible locations and reliable connections.
+Mobile proxies provide access through mobile network IP addresses and can be useful for mobile-focused applications, testing, automation and location-sensitive workflows.
 
-[Explore Mobile Proxies](../how-to-buy-mobile-proxy.html)
+**Learn more:**
 
----
-
-### Static Proxies
-
-Stable static IP solutions for applications that require consistent IP addresses and long-term connections.
-
-[Explore Static Proxies](../us-ip-only-1-99.html)
+[Mobile Proxy Guide](blog/how-to-buy-mobile-proxy.html)
 
 ---
 
-### High-Purity Residential Proxies
+### Static Residential Proxies
 
-ISP proxy solutions designed to combine stable connections with residential-style IP infrastructure.
+Static residential proxies provide persistent IP addresses for applications that require stable connections and consistent IP sessions.
 
-[Learn about ISP Proxies](../how-businesses-should-purchase-static-residential-proxies.html)
+**Learn more:**
 
----
-
-
-# LokiProxy Blog
-
-Explore practical guides, tutorials and technical articles about proxies, web scraping, automation, IP addresses and proxy infrastructure.
-
-## Latest Articles
-
-- [High-Purity Residential Proxies: Advantages & Uses](../high-purity-residential-proxies.html)
-
-- [How to Choose Mobile Proxies on a Budget](../how-to-choose-mobile-proxies-on-a-budget.html)
-
-- [How to Evaluate Proxy Link Quality](../how-to-evaluate-proxy-link-quality.html)
-
-- [How to Choose Stable Mobile Proxies](../how-to-choose-stable-mobile-proxies.html)
-
-- [Mobile vs Residential Proxy](../mobile-vs-residential-proxy.html)
-
-[View All LokiProxy Blog Articles →](./blog/)
+[Static Residential Proxy Guide](blog/us-static-ip-only-1-99.html)
 
 ---
 
-# Developer Documentation
+### Rotating Proxies
 
-LokiProxy provides technical documentation for developers integrating proxy connections into their applications.
-
-### Proxy Types
-
-Learn about HTTP and SOCKS5 proxy connections.
-
-[View Proxy Types](./proxy-types.html)
-
-### Authentication
-
-Learn how to configure proxy authentication and credentials.
-
-[View Authentication Documentation](./authentication.html)
-
-### API Reference
-
-Explore LokiProxy API documentation and integration information.
-
-[View API Reference](./api.html)
+Rotating proxies automatically change IP addresses according to configured rotation rules and can be useful for large-scale web data collection and automation workflows.
 
 ---
 
-# Quick Start
+## Supported Proxy Protocols
+
+LokiProxy supports:
+
+- HTTP proxies
+- HTTPS proxy connections
+- SOCKS5 proxies
+
+---
+
+## Quick Start
+
+### HTTP Proxy
 
 A typical HTTP proxy connection uses the following format:
 
