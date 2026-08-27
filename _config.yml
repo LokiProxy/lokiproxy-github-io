@@ -1,11 +1,13 @@
-title: LokiProxy Documentation
-description: Technical documentation for LokiProxy HTTP and SOCKS5 proxy connections.
+title: LokiProxy
+description: Professional proxy solutions including residential, mobile, static residential and rotating proxies.
 
 url: "https://lokiproxy.github.io"
 baseurl: ""
 
 plugins:
   - jekyll-sitemap
+
+permalink: /blog/:title/
 
 exclude:
   - google5812f5984b1f1788.html
