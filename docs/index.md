@@ -40,13 +40,14 @@ Stable static IP solutions for applications that require consistent IP addresses
 
 ---
 
-### ISP Proxies
+### High-Purity Residential Proxies
 
 ISP proxy solutions designed to combine stable connections with residential-style IP infrastructure.
 
 [Learn about ISP Proxies](../how-businesses-should-purchase-static-residential-proxies.html)
 
 ---
+
 
 # LokiProxy Blog
 
