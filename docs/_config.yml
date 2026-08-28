@@ -7,7 +7,7 @@ description: >
   businesses and technical users.
 
 url: "https://www.lokiproxy.com"
-baseurl: "/lokiproxy-github-io"
+baseurl: "/proxy-provider"
 
 lang: en
 timezone: UTC
