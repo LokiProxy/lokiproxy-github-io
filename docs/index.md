@@ -1,10 +1,8 @@
 ---
 layout: default
-title: LokiProxy - Professional Proxy Solutions
-description: Professional residential, mobile, static residential and rotating proxy solutions for developers, businesses and technical users.
+title: "LokiProxy - Professional Proxy Solutions"
+description: "LokiProxy provides residential proxies, mobile proxies, static residential proxies, rotating proxies, HTTP proxies and SOCKS5 proxy solutions for developers, businesses and technical users."
 ---
-
-# LokiProxy
 
 ## Professional Proxy Solutions for Developers and Businesses
 
@@ -76,20 +74,96 @@ Covering 50+ countries/regions, unlock unrestricted access and exceptional speed
 
 ---
 
-## Supported Proxy Protocols
+## Why Choose LokiProxy?
 
-LokiProxy supports:
+LokiProxy focuses on reliable proxy infrastructure and practical proxy solutions for developers and businesses.
 
-- HTTP proxies
-- SOCKS5 proxies
+Key capabilities include:
+
+- Residential proxy connectivity
+- Mobile proxy connectivity
+- Static residential IPs
+- HTTP proxy support
+- SOCKS5 proxy support
+- API-based proxy management
+- Technical documentation
+- Proxy configuration guides
 
 ---
 
-## Quick Start
+## LokiProxy Documentation
 
-### HTTP Proxy
+Explore the LokiProxy technical documentation to learn about proxy types, authentication, API usage and proxy configuration.
 
-A typical HTTP proxy connection uses the following format:
+### Documentation
 
-```text
-http://USERNAME:PASSWORD@HOST:PORT
+- [Proxy Types](./proxy-types/)
+- [Authentication](./authentication/)
+- [API Reference](./api/)
+
+---
+
+## LokiProxy Blog
+
+Read technical articles, proxy guides, tutorials and industry insights.
+
+### Latest Articles
+
+- [High-Purity Residential Proxies: Advantages & Uses](./blog/high-purity-residential-proxies/)
+- [How to Choose Mobile Proxies on a Budget](./blog/how-to-choose-mobile-proxies-on-a-budget/)
+- [How to Evaluate Proxy Link Quality](./blog/how-to-evaluate-proxy-link-quality/)
+- [How to Plan Mobile Proxy Calling Strategies Effectively](./blog/how-to-plan-mobile-proxy-calling-strategies-effectively/)
+- [In-Depth Analysis of Mobile Proxy Working Principles](./blog/in-depth-analysis-of-mobile-proxy-working-principles/)
+
+**[View All Blog Articles →](./blog/)**
+
+---
+
+## Proxy Resources
+
+LokiProxy provides educational resources covering proxy technologies, proxy selection, configuration, authentication and practical proxy use cases.
+
+If you are researching proxy infrastructure, start with our documentation and technical guides.
+
+- [Proxy Types](./proxy-types/)
+- [Authentication](./authentication/)
+- [API Reference](./api/)
+- [LokiProxy Blog](./blog/)
+
+---
+
+## About LokiProxy
+
+LokiProxy is a proxy infrastructure project providing information and technical resources related to residential proxies, mobile proxies, static residential proxies, rotating proxies, HTTP proxies and SOCKS5 proxies.
+
+This website contains technical documentation, proxy guides, tutorials and resources for developers and businesses working with proxy connectivity.
+
+---
+
+## Frequently Asked Questions
+
+### What proxy types does LokiProxy support?
+
+LokiProxy provides information and resources for residential proxies, mobile proxies, static residential proxies, HTTP proxies and SOCKS5 proxies.
+
+### What are residential proxies?
+
+Residential proxies use IP addresses associated with residential networks. They are commonly used when applications require geographically diverse IP connectivity.
+
+### What are mobile proxies?
+
+Mobile proxies use IP addresses provided through mobile networks. They can be useful for applications involving mobile connectivity, testing, automation and location-sensitive workflows.
+
+### Where can I find LokiProxy technical documentation?
+
+You can find the main documentation on this website and access specific resources through the documentation links.
+
+---
+
+## Explore LokiProxy
+
+- [Documentation](./)
+- [Proxy Types](./proxy-types/)
+- [Authentication](./authentication/)
+- [API Reference](./api/)
+- [LokiProxy Blog](./blog/)
