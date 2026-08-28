@@ -110,12 +110,8 @@ Read technical articles, proxy guides, tutorials and industry insights.
 ### Latest Articles
 
 - [High-Purity Residential Proxies: Advantages & Uses](./blog/high-purity-residential-proxies/)
-- [How to Choose Mobile Proxies on a Budget](./blog/how-to-choose-mobile-proxies-on-a-budget/)
-- [How to Evaluate Proxy Link Quality](./blog/how-to-evaluate-proxy-link-quality/)
-- [How to Plan Mobile Proxy Calling Strategies Effectively](./blog/how-to-plan-mobile-proxy-calling-strategies-effectively/)
-- [In-Depth Analysis of Mobile Proxy Working Principles](./blog/in-depth-analysis-of-mobile-proxy-working-principles/)
 
-**[View All Blog Articles →](./blog/)**
+**[View All Blog Articles →](./docs/blog)**
 
 ---
 
