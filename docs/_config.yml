@@ -1,15 +1,15 @@
-title: LokiProxy Documentation
+title: "LokiProxy - Professional Proxy Solutions"
 
 description: >
   LokiProxy provides professional proxy solutions including
   residential proxies, mobile proxies, static residential proxies,
-  rotating proxies, HTTP proxies and SOCKS5 proxies.
+  rotating proxies, HTTP proxies and SOCKS5 proxies for developers,
+  businesses and technical users.
 
 url: "https://lokiproxy.github.io"
-baseurl: ""
+baseurl: "/lokiproxy-github-io"
 
 lang: en
-
 timezone: UTC
 
 theme: minima
@@ -19,6 +19,13 @@ plugins:
   - jekyll-seo-tag
 
 permalink: /blog/:title/
+
+header_pages:
+  - index.md
+  - proxy-types.md
+  - authentication.md
+  - api.md
+  - blog/index.md
 
 defaults:
   - scope:
