@@ -10,7 +10,7 @@ description: "LokiProxy provides reliable residential, mobile, static residentia
 
 LokiProxy provides reliable proxy infrastructure for developers, businesses, automation workflows, web data collection, and technical applications.
 
-Our proxy solutions include **residential proxies, mobile proxies, static residential proxies, rotating proxies, HTTP proxies, and SOCKS5 proxies**.
+Our proxy solutions include **residential proxies, mobile proxies, static residential proxies, High-Purity, Short-term, and Unlimited proxies**.
 
 ---
 
@@ -18,61 +18,61 @@ Our proxy solutions include **residential proxies, mobile proxies, static reside
 
 ### Residential Proxies
 
-Residential proxies use IP addresses associated with residential networks and are designed for applications that require geographically diverse and reliable IP connectivity.
+Residential proxies use IP addresses associated with real residential networks and are designed for applications that require geographically diverse and reliable IP connectivity.
 
 **Learn more:**
 
-[Residential Proxy Guide](/blog/high-purity-residential-proxies/)
+[Residential Proxy Guide](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
 
 ---
 
 ### Mobile Proxies
 
-Mobile proxies provide access through mobile network IP addresses and can be useful for mobile-focused applications, testing, automation, and location-sensitive workflows.
+Mobile proxies provide access through mobile network IP addresses and can be useful for mobile-focused applications, testing, automation and location-sensitive workflows.
 
 **Learn more:**
 
-[Mobile Proxy Guide](/blog/how-to-buy-mobile-proxies/)
+[Mobile Proxy Guide](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
 
 ---
 
 ### Static Residential Proxies
 
-Static residential proxies combine residential IP characteristics with stable, long-term connections. They can be useful for applications that require consistent IP addresses.
+Static residential proxies provide persistent IP addresses for applications that require stable connections and consistent IP sessions.
 
 **Learn more:**
 
-[Static Residential Proxy Guide](/blog/lokiproxy-us-static-ip-only-1-99/)
+[Static Residential Proxy Guide](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
 
 ---
 
-### Rotating Proxies
+### High-Purity Residential Proxies
 
-Rotating proxies automatically change IP addresses based on configured rotation rules. They can be useful for large-scale web requests, automation workflows, and applications that require multiple IP addresses.
+Strictly filtered premium residential IPs providing authentic and reliable network environments for data scraping, brand protection, and multi-scenario demands.
 
 **Learn more:**
 
-[Proxy Types](/proxy-types/)
+[High-Purity Residential Proxies](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
 
 ---
 
-### HTTP Proxies
+### Short-term Residential IPs
 
-HTTP proxies provide proxy connectivity for HTTP-based applications, browsers, scripts, automation tools, and other web-related workflows.
+35M+ real residential IPs across 190+ countries/regions, with on-demand access to any number of IPs.
 
 **Learn more:**
 
-[API Reference](/api/)
+[Short-term Residential IPs](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
 
 ---
 
-### SOCKS5 Proxies
+### Unlimited Residential Proxies
 
-SOCKS5 proxies provide flexible proxy connectivity for applications that support the SOCKS5 protocol.
+Covering 50+ countries/regions, unlock unrestricted access and exceptional speed on powerful proxy servers.
 
 **Learn more:**
 
-[Authentication](/authentication/)
+[Unlimited Residential Proxies](https://www.lokiproxy.com/?utm_t=1&utm_i=52)
 
 ---
 
@@ -98,11 +98,11 @@ Key capabilities include:
 
 Explore the technical documentation to learn how to use LokiProxy proxy services.
 
-### Documentation
+## Documentation
 
-- [Proxy Types](/proxy-types/)
-- [Authentication](/authentication/)
-- [API Reference](/api/)
+- [Proxy Types](../proxy-types/)
+- [Authentication](../authentication/)
+- [API Reference](../api/)
 
 ---
 
@@ -113,64 +113,13 @@ Read technical articles, proxy guides, tutorials, and industry insights.
 ### Latest Articles
 
 - [High-Purity Residential Proxies: Advantages & Uses](/blog/high-purity-residential-proxies/)
-- [How to Choose Mobile Proxies on a Budget](/blog/how-to-choose-mobile-proxies-on-a-budget/)
-- [How to Evaluate Proxy Link Quality](/blog/how-to-evaluate-proxy-link-quality/)
-- [How to Plan Mobile Proxy Calling Strategies Effectively](/blog/how-to-plan-mobile-proxy-calling-strategies-effectively/)
-- [In-Depth Analysis of Mobile Proxy Working Principles](/blog/in-depth-analysis-of-mobile-proxy-working-principles/)
 
-**[View All Blog Articles →](/blog/)**
+**[View All Blog Articles →](https://github.com/LokiProxy/proxy-provider/tree/main/docs/blog)**
 
 ---
 
-## Proxy Resources
+## LokiProxy
 
-LokiProxy provides educational resources covering proxy technologies, proxy selection, configuration, authentication, and practical use cases.
+LokiProxy provides technical documentation and educational resources related to proxy infrastructure, proxy configuration, authentication and developer integration.
 
-If you are researching proxy infrastructure, start with our documentation and technical guides.
-
-- [Proxy Types](/proxy-types/)
-- [Authentication](/authentication/)
-- [API Reference](/api/)
-- [LokiProxy Blog](/blog/)
-
----
-
-## About LokiProxy
-
-LokiProxy is a proxy infrastructure project providing information and technical resources related to residential proxies, mobile proxies, static residential proxies, rotating proxies, HTTP proxies, and SOCKS5 proxies.
-
-This website contains technical documentation, proxy guides, tutorials, and resources for developers and businesses working with proxy connectivity.
-
----
-
-## Frequently Asked Questions
-
-### What proxy types does LokiProxy support?
-
-LokiProxy provides information and resources for residential proxies, mobile proxies, static residential proxies, rotating proxies, HTTP proxies, and SOCKS5 proxies.
-
-### What are residential proxies?
-
-Residential proxies use IP addresses associated with residential networks. They are commonly used when applications require geographically diverse IP connectivity.
-
-### What are mobile proxies?
-
-Mobile proxies use IP addresses provided through mobile networks. They can be useful for applications involving mobile connectivity, testing, automation, and location-sensitive workflows.
-
-### What is a SOCKS5 proxy?
-
-SOCKS5 is a proxy protocol that can relay network traffic for applications that support the protocol.
-
-### Where can I find LokiProxy technical documentation?
-
-You can find the main documentation in the [LokiProxy Documentation](/) and access specific resources through the documentation links above.
-
----
-
-## Explore LokiProxy
-
-- [Documentation](/)
-- [Proxy Types](/proxy-types/)
-- [Authentication](/authentication/)
-- [API Reference](/api/)
-- [LokiProxy Blog](/blog/)
+[Back to LokiProxy Documentation](../)
