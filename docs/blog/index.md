@@ -112,7 +112,7 @@ Read technical articles, proxy guides, tutorials, and industry insights.
 
 ### Latest Articles
 
-- [High-Purity Residential Proxies: Advantages & Uses](/blog/high-purity-residential-proxies/)
+- [High-Purity Residential Proxies: Advantages & Uses](./blog/high-purity-residential-proxies/)
 
 **[View All Blog Articles →](https://github.com/LokiProxy/proxy-provider/tree/main/docs/blog)**
 
