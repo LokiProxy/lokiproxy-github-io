@@ -111,7 +111,7 @@ Read technical articles, proxy guides, tutorials and industry insights.
 
 - [High-Purity Residential Proxies: Advantages & Uses](./blog/high-purity-residential-proxies/)
 
-**[View All Blog Articles →](https://github.com/LokiProxy/proxy-provider/docs/blog)**
+**[View All Blog Articles →](https://github.com/LokiProxy/proxy-provider/tree/main/docs/blog)**
 
 ---
 
@@ -124,7 +124,7 @@ If you are researching proxy infrastructure, start with our documentation and te
 - [Proxy Types](./proxy-types/)
 - [Authentication](./authentication/)
 - [API Reference](./api/)
-- [LokiProxy Blog](./blog/)
+- [LokiProxy Blog](https://github.com/LokiProxy/proxy-provider/tree/main/docs/blog)
 
 ---
 
@@ -162,4 +162,4 @@ You can find the main documentation on this website and access specific resource
 - [Proxy Types](./proxy-types/)
 - [Authentication](./authentication/)
 - [API Reference](./api/)
-- [LokiProxy Blog](./blog/)
+- [LokiProxy Blog](https://github.com/LokiProxy/proxy-provider/tree/main/docs/blog)
