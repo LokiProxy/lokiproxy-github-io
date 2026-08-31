@@ -30,14 +30,5 @@ header_pages:
 defaults:
   - scope:
       path: ""
-      type: "pages"
     values:
       layout: default
-
-exclude:
-  - README.md
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
