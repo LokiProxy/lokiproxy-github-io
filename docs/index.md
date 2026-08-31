@@ -111,7 +111,7 @@ Read technical articles, proxy guides, tutorials and industry insights.
 
 - [High-Purity Residential Proxies: Advantages & Uses](./blog/high-purity-residential-proxies/)
 
-**[View All Blog Articles →](https://github.com/LokiProxy/lokiproxy-github-io/tree/main/docs/blog)**
+**[View All Blog Articles →](https://github.com/LokiProxy/proxy-provider/docs/blog)**
 
 ---
 
